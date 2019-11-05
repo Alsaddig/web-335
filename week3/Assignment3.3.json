@@ -1,0 +1,31 @@
+{
+  "publisher": {
+    "publisher_name": "Alsaddig Ibrahim",
+    "publisher_code": "111",
+    "publisher_address": "100 Main St",
+    "book": [
+      { 
+        "book_isbn": "22222222-33-22",
+        "book_name": "Ibrahim PHP, 4th Edition 2019",
+        "book_price": 150,
+        "author": {
+          "author_first_name": "Alsaddig",
+          "author_last_name": "Ibrahim",
+          "author_phone": "888-444-5555",
+          "author_email": "alsaddig@bellevue.edu"
+        }
+      },
+      { 
+        "book_isbn": "111111-313-212",
+        "book_name": "JavaScript, 5th Edition 2018",
+        "book_price": 100,
+        "author": {
+          "author_first_name": "Alsaddig",
+          "author_last_name": "Ibrahim",
+          "author_phone": "888-444-5555",
+          "author_email": "alsaddig@bellevue.edu"
+        }
+      },
+    ] 
+  }
+}
