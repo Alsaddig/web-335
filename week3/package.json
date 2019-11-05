@@ -1,0 +1,46 @@
+{
+    "user":[
+        {
+            "user_id":120,
+            "user_name":"Alsaddig",
+            "Link_USER_ROLE":{
+                "user_role_id":1211,
+                    "Role":{
+                        "role_id":"a120",
+                        "role_title":"developer",
+                       "LINK_ROLE_PERMISSION":{
+                           "role_permission_id":"a120a",
+                           "permission":{
+                            "read":true,
+                            "write":false,
+                            "delete":false
+                           }
+                            
+                        }
+                }
+            }    
+           
+        },
+        {
+            "user_id":121,
+            "user_name":"Husam",
+            "Link_USER_ROLE":{
+                "user_role_id":1201,
+                    "Role":{
+                        "role_id":"a121",
+                        "role_title":"admin",
+                       "LINK_ROLE_PERMISSION":{
+                           "role_permission_id":"a120a",
+                           "permission":{
+                            "read":true,
+                            "write":true,
+                            "delete":true
+                           }
+                            
+                        }
+                }
+            }    
+           
+        }
+    ]
+}
