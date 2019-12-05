@@ -1,0 +1,30 @@
+{
+    "class":{
+        "-id":1,
+        "name":"javaScript",
+        "Enroll":[
+            {
+                "_id":10,
+                "Student":{
+                    "_id":100,
+                    "first_name":"Alsaddig",
+                    "last_name":"Ibrahim",
+                    "mi":"A"
+                },
+                "grade":94
+
+            },
+            {
+                "_id":11,
+                "Student":{
+                    "_id":101,
+                    "first_name":"Moh",
+                    "last_name":"Ibrahim",
+                    "mi":"A"
+                },
+                "grade":99
+
+            }
+        ]
+    }
+}

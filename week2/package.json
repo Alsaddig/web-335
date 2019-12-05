@@ -1,0 +1,33 @@
+{
+   "Customer":{
+       "_id":100,
+       "first_name":"Alsaddig",
+       "last_name":"Ibrahim",
+       "date_of_birth":"05/14/1984",
+       "user_name":"alsaddig_ibrahim",
+       "Invoice":[
+           {
+               "_id":1000,
+               "date_created":"10/10/2019",
+               "date_shipped":"10/14/2019",
+               "line-item":[
+                   {
+                       "_id":1001,
+                       "name":"gold",
+                       "price":100.00,
+                       "quantity":3
+                   },
+                   {
+                    "_id":1002,
+                    "name":"silver",
+                    "price":50.00,
+                    "quantity":4
+                }
+               ],
+               "subtotal":600.00,
+               "tax":42.00,
+               "total":642.00
+           }
+       ]
+   } 
+}
